@@ -7,4 +7,4 @@
 - 🧗‍♂️ Love climbing
 - 💬 Ask me about WordPress, React, Analytics
 - ⚡️ Check out my most recent side project [buzby.app](https://buzby.app)
-- [How I work](./how-i-work.md)
+- 👨‍💻 [How I work](./how-i-work.md)
