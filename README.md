@@ -9,5 +9,5 @@
 - 💬 Ask me about WordPress, React, Analytics
 - ⚡️ Check out my most recent projects
   - [buzby.app](https://buzby.app)
-  - [trukraine.com](https://trukraine.com) (with @noeltock)
+  - [trukraine.com](https://trukraine.com) (with [@noeltock](https://github.com/noeltock))
 - 👨‍💻 [How I work](./how-i-work.md)
